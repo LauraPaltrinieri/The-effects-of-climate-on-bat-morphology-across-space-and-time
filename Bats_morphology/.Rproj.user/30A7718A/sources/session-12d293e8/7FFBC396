@@ -1,0 +1,26 @@
+{
+    "id": "7FFBC396",
+    "path": "C:/Users/lau-r/Documents/GitHub/The-effects-of-climate-on-bat-morphology-across-space-and-time/Bats_morphology/Scripts/05_Temporal_Meta_Regression.R",
+    "project_path": "Scripts/05_Temporal_Meta_Regression.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1741192805050.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "103,0",
+        "scrollLine": "65"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1732529900,
+    "encoding": "ISO8859-1",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1732529900,
+    "read_only": false,
+    "read_only_alternatives": []
+}
