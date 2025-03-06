@@ -3,6 +3,7 @@ This repository contains all the data and scripts needed to reproduce the result
 Scripts are organized to replicate the analysis presented in the manuscript. The scripts are divided into spatial and temporal analyses:
 
 Spatial Analysis: These scripts include environmental variables and analyze spatial patterns in bat morphology.
+
 Temporal Analysis: These scripts focus on how bat body size changes over time without incorporating environmental variables.
 Each script is divided into two sections:
 
